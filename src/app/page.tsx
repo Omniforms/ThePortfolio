@@ -6,7 +6,6 @@ import Image from "next/image";
 import Link from "next/link";
 import ErrorBoundary from "../components/ErrorBoundary";
 import PerlinCanvas from "../components/PerlinBackground";
-import ThreeScene from "../components/ThreeScene";
 import hydra from "./assets/hydra.png";
 import me from "./assets/me.png";
 
